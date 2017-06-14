@@ -1,3 +1,5 @@
+# Attention, this is only a joke.
+
 # [Lucas](https://www.npmjs.com/~lucasmreis) say: Heyder Boladão
 
 ## Full Example:
